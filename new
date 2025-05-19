@@ -3,11 +3,11 @@
 #include<conio.h>
 void main
 {
-	int b;
-	scanf("%d",&b);
+	int d;
+	scanf("%d",&d);
 	if(n/2==0)
-printf("%d is even",b);
+printf("%d is even",d);
 else 
-printf("%d is odd",b);
+printf("%d is odd",d);
 getch();
 }
