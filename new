@@ -1,13 +1,13 @@
-//b1 wrote this comment
+
 #include<stdio.h>
 #include<conio.h>
 void main
 {
-	int a
-	scanf("%d",&a);
+	int b
+	scanf("%d",&b);
 	if(n/2==0)
-printf("%d is even",a);
+printf("%d is even",b);
 else 
-printf("%d is odd",a);
+printf("%d is odd",b);
 getch();
 }
