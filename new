@@ -3,7 +3,7 @@
 #include<conio.h>
 void main
 {
-	int b
+	int b;
 	scanf("%d",&b);
 	if(n/2==0)
 printf("%d is even",b);
